@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\alipaysecsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7413c074c9edf523050267b93d0875151dc4b644">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaysecsdk_48f814a9e1256e129c8ded4c31b70fb53d9085e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\speech.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e6ebe50aa0eef5970e1fc7985974ffd35cbecf52">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\speech_7cf7fc5a041933d8476812d5a2b9384b103909fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\messaging.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="32001add889e4b57ddeedd7fca0e0cb717ead80b">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\messaging_491821edc1360cbe83ebde5b949648d9da86a7c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\oauth.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="196acd27ec611666481529b99fce9f40cc7237e1">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth_b8a64c8d33f25ea85c43661907f67ef6dda5dbe1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\oauth-sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4f0bc7c30f32cccb22183fbcbf6232e7d1d9e529">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-sina_12a262608daca1aea4380524c0ce79050a8af4c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\GetuiSDK2.7.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de9bd9eedb38574a7741b18e34fc9e1f1ca0bc7b">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\GetuiSDK2.7.0.0_b96d1c42950be67ce3d6d5e3256522ecf298bd25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\nopermission.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="303f4ff57349d49b76d4c5c6f49572b6dff16d7a">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\nopermission_a9bcd9fee69c0673e31b4d9a77fa800c46b51942\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\share.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e9700a303a8c75002a3f9b21b849ce59e6e8d947">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\share_fae7208f9ae408c6c4289e875c82388a2d517707\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\payment-alipay.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42583108645cdb7b84455c9102a795fc5c83872e">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment-alipay_2a079450c707e4d5b0e9eea84e5063b09928c045\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\alipaysdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b40481f01537a329936ce54ee2fe15ef2537f010">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaysdk_5116c1a081c8810d7a90d472871f28b705a56a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\weibosdkcore_release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="265f83894203f2bd137185bc3cefaca45b186ca0">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\weibosdkcore_release_dce81646771fbbf7e33b4573b96779cbc6c6e374\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\share-weixin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="da17b60c73f5fa4f2ff7c354f52e71aa6e4f1b6e">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-weixin_3976f3f2601c54dda45715c5aa777a2291997044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\barcode.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="873ed7f86a9d920a14b0eccade601821eb3c16c4">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\barcode_8bff090cae381b32cd0f97fff76af88477bd543e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\gallery.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="496b3bb9778a5ff43613267aa608f7adcb912bbc">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\gallery_e60092008912327b2f6e1cbed166b2fe3dd1480b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9cc5fb6c6a98c9ba56e774cb20fa9b48bc6f75f3">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_898d6b17c02db5eed192494f3e133599b9d429ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\geolocation-system.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8486c47d4158f7cc93942f7410c33ede8f74c047">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation-system_5e73edef17270638dfa894c333d6bdcea6860379\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\weibosdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="860f7bf08016ffb93f564cdebab6d70586ad46d6">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\weibosdk_fb54483059250564644b450cc97073b512f65d5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\universal-image-loader-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.0_61bae23bd55d31d67d79f24e8827830f1592aa51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\aps.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="523d2c11bb2f079894d97b7ad838b178ef2df6dd">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps_190290e27f03f5208abd06b90ace512127032b5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\umeng-analytics-v6.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v6.0.1_9e0b3be94751cb79a3bf2ec664c59fd42a4c1898\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\downloader.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc9e58b2d7e1aab6d83f4326b509d5bbfa0b4021">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\downloader_de07aac09380e62c380c74bdbb14ffb376b581cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\tx_weibo_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="33921321a220f3927929217aeed32befede21502">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk_9e65456e8968cf648807d18962c2991eb6970697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\oauth-qq.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d59d44761d5736050e8420ad057d1eb09af18fe8">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-qq_81dc591ab3bbfb56f2dc08abc6419ced3ef945cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\json_simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\json_simple-1.1_c93b22f3f9a73aa36eb5d46a97deb56620cc68eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\sensor.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c3c6ab277532491f9d7cb0b6b34df17999d48e10">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\sensor_f41d0a4c648fecd70069c4f7653c5c1a6af4561b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_73b9883bfda7e9a6ae205d0e99c174e73ba72aaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8424a2e15d65c851d09119224876b5ec02521c2f">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_916a65de9d9d3d67f3851c00e934573fd7a47c58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\nativeObj.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="003c55995af8bc42fd763a00add5883324aaa7c4">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\nativeObj_a6e744ecc496d7e4f5c1243c40825b1afd6dea7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\share-qq.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7dc52d4d98c53cf1c7f7cea3929c126b61a8ec">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-qq_b7ed1f5dd441f76710459a2a2f01b4047ca14c1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\open_sdk_r5043_lite.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1f213f03dfe8868d0b24898234f6eefb67015a4a">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5043_lite_c16ced13c54c286096f5f7919f3a920285db73a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\share-sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="32556e60a8715217fc7d2c7942fc51736558ff92">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-sina_dd7b46eb920bdddc9408506d563a81c817e78108\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\tx_wx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_wx_5cd33557349a343809bd635e1f767e905a503f60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_bb086c85e665c11aa4bf0292d6a893830a0df256\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a11eb2b2631d3538589d79e5d85e10d4dc216480">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_227c2ba938dc6fa32ec5b6317697e7c1d4a0928e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="131a77d1384a947374310f07b37cd7de3f622d18">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_edbfd086d863c9cb0afa593e217c4da8eb94c632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\statistics-umeng.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8043ca971abf6d9da420297e5ef7bdeeeabc2c51">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\statistics-umeng_9c6bf7a36a46796924bf2e14dac2cff0a23de189\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\uploader.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5a52643682c717d91785ec0c79dda0b821b88607">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\uploader_1c2814c314280f906f81ded8a49de91b41c75b85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\map-baidu.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e8ef80428d3a7a30f06d9c18c2141fe24a912e8c">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\map-baidu_57d292f813a029224f1bb71b742705e9bf01f5a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\geolocation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7961d6dd7e67e46187b1295f4cc70f68d6e84b72">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation_23a0faf4ad15b461b2e4e1eb4133e1e6a5f8a106\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\tx_weibo_sdk_component.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="17d672bf657b4d848d1b33782496fc0dd972072c">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk_component_a4dbdf9aede3e442fceb1924db0f6705c814df71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\nativeui.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3e3cb3d56a00db6127320441eab3a4e864349e61">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\nativeui_700548591d6195e9ca8fcac37f67108766e8e03a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\tx_weibo_sdk-httpclient-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d6364bcc1b2b2aa69d008602d36a700453648560">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk-httpclient-3.0.1_1a01862ba7cdaaba41c57508735f47ff0cb78b89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\speech_ifly.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9283645e02163ad739aef73d6525b4ebac1f6ff8">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\speech_ifly_81efca10ff5212a9830ef365c2860b4168306fb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\payment-weixin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="925eef7c2a46f9480cf9d84c01457cfe9c022489">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment-weixin_8ec0ff8cbacf3880d58e10b2e493c5a31f8229e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\pdr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f183232b6f801150c3fb6e1068485e8a0370e0b2">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\pdr_f11859433a64075cdfcd4ec1a3e6e6e98811d0d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\aps-igexin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5db0274d27c657d60da39878e32da675bee2bc0e">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps-igexin_b75e164097da5b5a04095cebb6fcc65ad19b04f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\ui.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5b081831d9ba55ad2726d1e0d63dc7da84a7b829">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ui_a162d3fdbcc0039386128d1a7b3a3cfb08b13465\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\camera.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7168ac50f667c4a98fdc704e080c8ad6af264f77">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\camera_12f3af94e9b3d43fec3679e6e1133cca1be6c951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\contacts.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="37ab7966a1ec1b7bbebf3f5b0792dddd9da5a0a9">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\contacts_f7d8c01f8a2c1db64054975eef5d07d6b2000e01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\alipayutdid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipayutdid_93a9ee99e9ef00d38b9b46fbe5249059e2c3364f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\share-tencent.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07a72a00a38e50051963f7ea30caf0cb7d741b47">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-tencent_b078f21ccf8a823b0e2243f207d1b9e747d8fadc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\audio.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="25213cafe81f758562351ea676fbd83827dbad80">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\audio_258c53dcb4ce3b8067e4558ceed990e6837ff2f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\geolocation-baidu.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cb199421f6dcc18a3bfcb859192b44ad467d17ce">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation-baidu_636ad2bb143f795ce05aed5e173afd30fa517f33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\GetuiExt-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7825bfa9135d693e2046eab96fd94e724e0f9eda">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\GetuiExt-2.0.3_30b9e8b1427aa9b414e83a131fb18f3b8414757a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\device.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4baf611e43bf8965690977f70baa5f7429784e58">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\device_f493fcbd4bae736be710ee3b9d75339fd2215715\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\invocation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="10814898667722fc3f8c0d7ff26677e39f32c2a4">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\invocation_a6c1aec462c2bd47bca6473210bffc8aebe5dea6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\file.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8116779a891ff1574a3b19012bd9e3ce9b6fda1b">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\file_94abdef1bff169767af6ff79de4d671a742a22b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\navigatorui.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="caba21fcbe625efd887724164cabf045a910b6b7">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\navigatorui_665f3880cc369ea43fd91bf3c905030bc527e2ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\xhr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7186336cdcd378c9dd8157d80ed23c84edcc343d">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\xhr_00a9f421482dbca62519343613dd58589bd5112a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\payment.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e07ff77fd7e9e455b3d4f3579b76ef920e4d0ab1">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment_595aa228d208dabb694b42043c5b1364759a60d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\PackageDemo\app\libs\oauth-weixin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e8fc3cf376baaa112776273e3e37a01a48b4d4f2">
+        <dex dex="D:\AndroidStudioProjects\PackageDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-weixin_cdb1306a5d952470937d5d9290dff31286b7f23f\classes.dex" />
+    </item>
+
+</items>

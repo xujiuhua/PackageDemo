@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\PackageDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\push.png",
+        "source": "D:\\AndroidStudioProjects\\PackageDemo\\app\\src\\main\\res\\drawable-ldpi\\push.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PackageDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "D:\\AndroidStudioProjects\\PackageDemo\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PackageDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\splash.png",
+        "source": "D:\\AndroidStudioProjects\\PackageDemo\\app\\src\\main\\res\\drawable-ldpi\\splash.png"
+    }
+]
